@@ -1,0 +1,4 @@
+3524 suma cyfr = 14
+1234 suma cyfr = 10
+1123 suma cyfr = 7
+321 suma cyfr = 6
